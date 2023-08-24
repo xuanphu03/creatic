@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navigation {
+  background: linear-gradient(270deg, #101010 0%, rgba(16, 16, 16, 0) 100%);
+}
+
+.welcome {
+  background: linear-gradient(90deg, rgba(109, 149, 252, 0) 30%, #6d96fc4d 100%);
+}
+
+.bg-robot {
+  background: linear-gradient(90deg, #6d96fc4d 0%, rgba(109, 149, 252, 0) 100%);
+}
+
+#a0 {
+  background: linear-gradient(90deg, rgba(109, 149, 252, 0.35) 0%, rgba(21, 21, 21, 0.31) 100%);
+}
+
+#a1 {
+  background: linear-gradient(180deg, #6d96fc4d 0%, rgba(109, 149, 252, 0.00) 100%);
+}
+
+#a2 {
+  background: linear-gradient(0deg, #6d96fc4d 0%, rgba(109, 149, 252, 0.00) 100%);
+}
+
+#a3 {
+  background: linear-gradient(270deg, #6d96fc4d 0%, rgba(21, 21, 21, 0.31) 100%);
+}
+
+.overview {
+  background: linear-gradient(270deg, #6d96fc4d 0%, rgba(21, 21, 21, 0.35) 100%);
+}
